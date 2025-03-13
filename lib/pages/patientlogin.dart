@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:safe_space/auth_service.dart';
 import 'package:safe_space/models/users_db.dart';
 import 'package:safe_space/pages/patientlogin2.dart';
-import '../signuppagep.dart';
+import 'package:safe_space/pages/signuppagep.dart';
 import 'dart:developer' as developer;
 
 class LoginPage extends StatefulWidget {
